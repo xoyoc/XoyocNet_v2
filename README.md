@@ -11,3 +11,7 @@
 Mi sitio web en donde te muestro un poco de mis pasiones
 
 ## 🚀 Drones
+
+## 📸 Fotografia
+
+## 💻 Desarrollo Web
