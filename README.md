@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  XOYOC,NET
+  XOYOC.NET
 </h1>
 
 Mi sitio web en donde te muestro un poco de mis pasiones
